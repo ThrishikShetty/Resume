@@ -225,8 +225,46 @@ img {
    height: 10px;
    background-color: #f0f0f0;
 }
+
+.skills .box .html{
+    background-color: #03a9f4;
+   width: 90%;
+   height: 10px;
+   
+}
+.skills .box .css{
+    background-color: #03a9f4;
+   width: 70%;
+   height: 10px;
+   
+}
+.skills .box .js{
+    background-color: #03a9f4;
+   width: 50%;
+   height: 10px;
+   
+}
+.skills .box .py{
+    background-color: #03a9f4;
+   width: 60%;
+   height: 10px;
+   
+}
+.skills .box .c{
+    background-color: #03a9f4;
+   width: 80%;
+   height: 10px;
+   
+}
+.skills .box .java{
+    background-color: #03a9f4;
+   width: 55%;
+   height: 10px;
+   
+}
+
 .skills .box .percentage div{
-    width: 95%;
+    /* width: 95%; */
    position: absolute;
    top:0%;
    left: 0%;
